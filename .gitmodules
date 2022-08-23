@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MOFA2"]
+	path = MOFA2
+	url = https://github.com/biofam/mofa2
+	shallow = true
+	registered = true
